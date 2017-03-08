@@ -3,3 +3,9 @@ externalUrl: 'http://www.meetup.com/Hacks-Hackers-Zurich/'
 coordinates:
   - 47.3828
   - 8.5307
+founded: Aug 28, 2013
+organizers:
+  - { name: "Benjmain Wiederkehr", link: "https://twitter.com/wiederkehr" }
+  - { name: "Timo Grossenbacher", link: "https://twitter.com/grssnbchr" }
+  - { name: "Beni Buess", link: "https://twitter.com/benibu" }
+  - { name: "Christian Stettler", link: "https://twitter.com/stettlerch" }
